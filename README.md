@@ -1,16 +1,19 @@
-## Hi there 👋
+## # Hello👋 I'm BAFFOUR BRENYA AGYENIM BOATENG
 
-<!--
-**uglyboy77/uglyboy77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+A technology aficionado from Ghana.
+![](https://komarev.com/ghpvc/?username=uglyboy77&color=yellowgreen&style=for-the-badge&lable=PROFILE+VIEW)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently studying at KNUST. 
+- 🌱 I’m currently learning Angular & Node.js 
+- 💬 Ask me about Web Development
+- 📫 How to reach me: 
+baffourbrenya@gmail.com
+- ⚡ Fun fact: I'm goint change the world.
+
+Get in touch with me on:
+<a href="https://twitter.com/theuglyboy__"><img src="https://cdn-1.webcatalog.io/catalog/twitter/twitter-icon-filled-256.png?v=1727791318085" alt="theuglyboy__"></a>
+<a href="https://www.linkedin.com/in/agyenim-boateng-476865330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s"></a>
+<a href="https://www.instagram.com/theuglyboy._?igsh=MTQxbTNyemlzZXpudQ%3D%3D&utm_source=qr"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"></img>
+<a href="https://snapchat.com/t/CQQmDL9W"><img src="https://avatars.githubusercontent.com/u/40505220?s=280&v=4"></a>
