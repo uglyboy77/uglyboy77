@@ -12,7 +12,7 @@ A technology aficionado from Ghana.
 - 💬 Ask me about Web Development
 - 📫 How to reach me: 
 <b>baffourbrenya@gmail.com</b>
-- ⚡ Fun fact: I'm goint change the world.
+- ⚡ Fun fact: I'm going to change the world.
 
 Get in touch with me on:
 <br>
