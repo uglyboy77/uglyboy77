@@ -5,6 +5,12 @@ A technology aficionado from Ghana.
 
 ![](https://komarev.com/ghpvc/?username=uglyboy77&color=yellowgreen&style=for-the-badge&lable=PROFILE+VIEW)
 
+let wantAchieveSuperRank = false;
+let wantMultipleLang = true;
+let wantLongTimeAccount = true;
+let wantAncientAccount = false;
+let wantNewAccount = false;
+let wantMultipleOrganizations = true;
 
 - 🔭 I’m currently studying at KNUST. 
 - 🌱 I’m currently learning Angular & Node.js 
