@@ -10,7 +10,7 @@ A technology aficionado from Ghana.
 - 🌱 I’m currently learning Angular & Node.js 
 - 💬 Ask me about Web Development
 - 📫 How to reach me: 
-baffourbrenya@gmail.com
+<b>baffourbrenya@gmail.com</b>
 - ⚡ Fun fact: I'm goint change the world.
 
 Get in touch with me on:
