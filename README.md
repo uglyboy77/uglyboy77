@@ -19,4 +19,4 @@ Get in touch with me on:
 <a href="https://www.linkedin.com/in/agyenim-boateng-476865330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" style="width:40px;"></a>
 <a href="https://www.instagram.com/theuglyboy._?igsh=MTQxbTNyemlzZXpudQ%3D%3D&utm_source=qr"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" style="width:40px;"></img>
 <a href="https://snapchat.com/t/CQQmDL9W"><img src="https://avatars.githubusercontent.com/u/40505220?s=280&v=4" style="width:40px;"></a>
-[![WhatsApp Logo](https://raw.githubusercontent.com/uglboy77/uglyboy77/main/images/whatsapp-logo.png)](https://wa.me/233241234567?text=Hello%20there!)
+[![WhatsApp Logo](https://raw.githubusercontent.com/uglboy77/uglyboy77/main/images/https://store-images.s-microsoft.com/image/apps.8453.13655054093851568.4a371b72-2ce8-4bdb-9d83-be49894d3fa0.7f3687b9-847d-4f86-bb5c-c73259e2b38e)](https://wa.me/233555475347?text=Hello%20there!)
