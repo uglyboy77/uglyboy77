@@ -20,4 +20,5 @@ Get in touch with me on:
 <a href="https://www.instagram.com/theuglyboy._?igsh=MTQxbTNyemlzZXpudQ%3D%3D&utm_source=qr"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" style="width:40px;"></img>
 <a href="https://snapchat.com/t/CQQmDL9W"><img src="https://avatars.githubusercontent.com/u/40505220?s=280&v=4" style="width:40px;"></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uglyboy77)](https://github.com/anuraghazra/github-readme-stats)
